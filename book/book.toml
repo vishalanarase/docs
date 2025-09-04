@@ -1,0 +1,7 @@
+[book]
+title = "Notes Documentation"
+description = ""
+authors = ["Vishal Anarase"]
+
+[build]
+build-dir = "../docs"
